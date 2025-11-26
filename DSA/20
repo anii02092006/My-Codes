@@ -1,0 +1,35 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+typedef struct Node{
+    int data;
+    struct Node *next;
+} N;
+
+N *front=NULL, *rear=NULL;
+
+void enqueue(int v){
+    N* n=malloc(sizeof(N)); n->data=v; n->next=NULL;
+    if(!rear) front=rear=n;
+    else { rear->next=n; rear=n; }
+}
+
+int dequeue(){
+    if(!front){ printf("Queue Underflow\n"); return -1; }
+    int val=front->data;
+    N* t=front; front=front->next;
+    if(!front) rear=NULL;
+    free(t);
+    return val;
+}
+
+void display(){
+    for(N* t=front;t;t=t->next) printf("%d → ",t->data);
+    printf("NULL\n");
+}
+
+int main(){
+    enqueue(5); enqueue(15); enqueue(25);
+    printf("Dequeue: %d\n", dequeue());
+    printf("Current Queue:\n"); display();
+}
