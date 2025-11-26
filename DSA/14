@@ -1,0 +1,47 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+typedef struct Node {
+    int coef, exp;
+    struct Node* next;
+} N;
+
+N* ins(N* h,int c,int e){
+ N* n=malloc(sizeof(N)); n->coef=c; n->exp=e; n->next=h; return n;
+}
+
+N* mk(){
+ N* h=0; int t,c,e;
+ printf("Enter terms count: "); scanf("%d",&t);
+ for(int i=0;i<t;i++){ printf("coef exp: "); scanf("%d%d",&c,&e); h=ins(h,c,e); }
+ return h;
+}
+
+void pr(N* h){
+ for(;h;h=h->next) printf("%dx^%d %c ",h->coef,h->exp,h->next?'+':' ');
+ printf("\n");
+}
+
+N* add(N* a,N* b){
+ N* r=0;
+ for(N* p=a;p;p=p->next) {
+  int s=p->coef;
+  for(N* q=b;q;q=q->next) if(q->exp==p->exp) s+=q->coef;
+  r=ins(r,s,p->exp);
+ }
+ for(N* q=b;q;q=q->next){
+  int f=0;
+  for(N* p=a;p;p=p->next) if(p->exp==q->exp) f=1;
+  if(!f) r=ins(r,q->coef,q->exp);
+ }
+ return r;
+}
+
+int main(){
+ printf("Polynomial 1:\n"); N* a=mk();
+ printf("Polynomial 2:\n"); N* b=mk();
+ printf("\nP1: "); pr(a);
+ printf("P2: "); pr(b);
+ N* s=add(a,b);
+ printf("\nSum: "); pr(s);
+}
