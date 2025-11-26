@@ -1,0 +1,44 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+struct node {
+    int data;
+    struct node *next;
+};
+
+int main() {
+    struct node *head=NULL, *new1, *temp;
+    int choice=1, val;
+
+    // Create + Insert at end
+    while(choice) {
+        new1 = (struct node*)malloc(sizeof(struct node));
+        printf("Enter value: ");
+        scanf("%d", &val);
+        new1->data = val;
+        new1->next = NULL;
+        if(head==NULL) head = temp = new1;
+        else { temp->next = new1; temp = new1; }
+        printf("Continue? (1/0): ");
+        scanf("%d", &choice);
+    }
+
+    printf("\nLinked List elements:\n");
+    for(temp=head;temp!=NULL;temp=temp->next)
+        printf("%d → ",temp->data);
+    printf("NULL\n");
+
+    // Delete from beginning
+    if(head!=NULL) {
+        temp=head;
+        head=head->next;
+        free(temp);
+        printf("\nAfter deleting first node:\n");
+        for(temp=head;temp!=NULL;temp=temp->next)
+            printf("%d → ",temp->data);
+        printf("NULL\n");
+    }
+
+    printf("\nProcess Completed ✅");
+    return 0;
+}
