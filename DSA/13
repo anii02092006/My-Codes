@@ -1,0 +1,60 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+struct node {
+    int data;
+    struct node *next;
+};
+
+struct node* createList() {
+    struct node *head=NULL, *new1, *last;
+    int choice=1, val;
+
+    while(choice) {
+        new1 = (struct node*)malloc(sizeof(struct node));
+        printf("Enter value: ");
+        scanf("%d",&val);
+        new1->data = val;
+        new1->next = NULL;
+
+        if(head==NULL) {
+            head = last = new1;
+        } else {
+            last->next = new1;
+            last = new1;
+        }
+
+        printf("Add more? (1/0): ");
+        scanf("%d",&choice);
+    }
+    return head;
+}
+
+int main() {
+    printf("Create List 1:\n");
+    struct node *h1 = createList();
+
+    printf("\nCreate List 2:\n");
+    struct node *h2 = createList();
+
+    printf("\nList 1: ");
+    for(struct node *t=h1;t;t=t->next) printf("%d → ",t->data);
+    printf("NULL\nList 2: ");
+    for(struct node *t=h2;t;t=t->next) printf("%d → ",t->data);
+    printf("NULL\n");
+
+    // Comparison logic
+    int same=1;
+    struct node *t1=h1, *t2=h2;
+    while(t1 && t2) {
+        if(t1->data != t2->data) { same=0; break; }
+        t1=t1->next;
+        t2=t2->next;
+    }
+    if(t1 || t2) same=0; // Unequal length case
+
+    printf("\nBoth lists are %s\n", same?"SAME ✅":"NOT SAME ❌");
+    printf("Comparison Completed.\n");
+
+    return 0;
+}
