@@ -1,0 +1,43 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+typedef struct Node {
+    int data;
+    struct Node *next;
+} N;
+
+N *top = NULL;
+
+void push(int v) {
+    N *n = malloc(sizeof(N));
+    n->data = v;
+    n->next = top;
+    top = n;
+}
+
+int pop() {
+    if (!top) { printf("Stack Underflow\n"); return -1; }
+    int v = top->data;
+    N *t = top;
+    top = top->next;
+    free(t);
+    return v;
+}
+
+int peek() {
+    return top ? top->data : -1;
+}
+
+void display() {
+    for (N *t = top; t; t = t->next)
+        printf("%d → ", t->data);
+    printf("NULL\n");
+}
+
+int main() {
+    push(5); push(15); push(25);
+    printf("Pop: %d\n", pop());
+    printf("Top Element (Peek): %d\n", peek());
+    printf("Current Stack:\n");
+    display();
+}
