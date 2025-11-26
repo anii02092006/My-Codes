@@ -1,0 +1,41 @@
+#include <stdio.h>
+
+int binarySearch(int arr[], int low, int high, int key) {
+    if (low > high)
+        return -1;
+
+    int mid = (low + high) / 2;
+    printf("Recursive call → mid index %d, value %d\n", mid, arr[mid]);
+
+    if (arr[mid] == key)
+        return mid;
+    else if (key > arr[mid])
+        return binarySearch(arr, mid + 1, high, key);
+    else
+        return binarySearch(arr, low, mid - 1, key);
+}
+
+int main() {
+    int n, key;
+    printf("Enter size of sorted array: ");
+    scanf("%d", &n);
+
+    int arr[n];
+    printf("Enter %d sorted elements:\n", n);
+    for (int i = 0; i < n; i++) {
+        scanf("%d", &arr[i]);
+    }
+
+    printf("Enter element to search: ");
+    scanf("%d", &key);
+
+    int result = binarySearch(arr, 0, n - 1, key);
+
+    if (result != -1)
+        printf("Element found at index %d\n", result);
+    else
+        printf("Element not found\n");
+
+    printf("Binary search finished using recursion.\n");
+    return 0;
+}
