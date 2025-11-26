@@ -1,0 +1,41 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+typedef struct Node { int v; struct Node* next; } N;
+
+N* m(){
+ N* h=0,*l=0,*n;
+ int c,x;
+ printf("Enter nodes count: "); scanf("%d",&c);
+ for(int i=0;i<c;i++){
+  scanf("%d",&x);
+  n=malloc(sizeof(N)); n->v=x; n->next=0;
+  if(!h) h=l=n;
+  else { l->next=n; l=n; }
+ }
+ return h;
+}
+
+N* del(N* h){
+ N* t=h;
+ while(t && t->next){
+  if(t->v==t->next->v){
+   N* d=t->next;
+   t->next=d->next;
+   free(d);
+  } else t=t->next;
+ }
+ return h;
+}
+
+void pr(N* h){
+ while(h){ printf("%d → ",h->v); h=h->next; }
+ printf("NULL\n");
+}
+
+int main(){
+ N* h=m();
+ printf("Original sorted list:\n"); pr(h);
+ h=del(h);
+ printf("Distinct sorted list:\n"); pr(h);
+}
