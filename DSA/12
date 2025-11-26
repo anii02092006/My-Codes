@@ -1,0 +1,48 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+struct node {
+    int data;
+    struct node *next;
+};
+
+int main() {
+    struct node *head=NULL, *new1, *temp;
+    int choice=1, val;
+
+    // Creating Normal SLL
+    while(choice) {
+        new1 = (struct node*)malloc(sizeof(struct node));
+        printf("Enter value: ");
+        scanf("%d",&val);
+        new1->data = val;
+        new1->next = head;
+        head = new1;
+
+        printf("Add more? (1/0): ");
+        scanf("%d",&choice);
+    }
+
+    printf("\nOriginal List:\n");
+    temp=head;
+    while(temp){ printf("%d → ",temp->data); temp=temp->next; }
+    printf("NULL\n");
+
+    // Reversing logic
+    struct node *prev=NULL, *curr=head, *nextN;
+    while(curr) {
+        nextN = curr->next;
+        curr->next = prev;
+        prev = curr;
+        curr = nextN;
+    }
+    head = prev;
+
+    printf("\nReversed List:\n");
+    temp=head;
+    while(temp){ printf("%d → ",temp->data); temp=temp->next; }
+    printf("NULL\n");
+
+    printf("\nProcess Completed ✅");
+    return 0;
+}
