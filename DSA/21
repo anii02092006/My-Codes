@@ -1,0 +1,22 @@
+#include <stdio.h>
+#define MAX 5
+
+int s1[MAX], s2[MAX], top1=-1, top2=-1;
+
+void push(int s[], int *t, int val){ s[++(*t)]=val; }
+int pop(int s[], int *t){ return (*t==-1)?-1:s[(*t)--]; }
+
+void enqueue(int val){ push(s1,&top1,val); }
+
+int dequeue(){
+    if(top2==-1){
+        while(top1!=-1) push(s2,&top2,pop(s1,&top1));
+    }
+    return pop(s2,&top2);
+}
+
+int main(){
+    enqueue(10); enqueue(20); enqueue(30);
+    printf("Dequeue: %d\n", dequeue());
+    printf("Dequeue: %d\n", dequeue());
+}
