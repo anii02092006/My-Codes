@@ -1,0 +1,31 @@
+#include <stdio.h>
+#define MAX 5
+
+int q1[MAX], q2[MAX];
+int f1=0, r1=0, f2=0, r2=0;
+
+void enq(int q[], int *r, int v) {
+    q[(*r)++] = v;
+}
+
+int deq(int q[], int *f, int *r) {
+    if (*f == *r) return -1;
+    return q[(*f)++];
+}
+
+void push(int v) {
+    enq(q2,&r2,v);
+    while(f1<r1) enq(q1,&r2,q1[f1++]);
+    int *tf=&f1; f1=f2; f2=*tf;
+    tf=&r1; r1=r2; r2=*tf;
+}
+
+int pop() {
+    return deq(q2,&f1,&r1);
+}
+
+int main() {
+    enq(q2,&r1,1); enq(q2,&r1,2); enq(q2,&r1,3);
+    push(10);
+    printf("Pop from Stack: %d\n", pop());
+}
