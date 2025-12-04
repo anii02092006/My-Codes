@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/anii02092006/My-Codes/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/anii02092006/My-Codes/tree/master/0066-plus-one) |
 ## Linked List
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/anii02092006/My-Codes/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/anii02092006/My-Codes/tree/master/0066-plus-one) |
 ## Binary Search
 |  |
 | ------- |
