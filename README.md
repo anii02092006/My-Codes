@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/anii02092006/My-Codes/tree/master/0035-search-insert-position) |
+| [0046-permutations](https://github.com/anii02092006/My-Codes/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/anii02092006/My-Codes/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/anii02092006/My-Codes/tree/master/0073-set-matrix-zeroes) |
 ## Binary Search
@@ -84,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/anii02092006/My-Codes/tree/master/0073-set-matrix-zeroes) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/anii02092006/My-Codes/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
