@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anii02092006/My-Codes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/anii02092006/My-Codes/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/anii02092006/My-Codes/tree/master/0073-set-matrix-zeroes) |
 ## String
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/anii02092006/My-Codes/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/anii02092006/My-Codes/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/anii02092006/My-Codes/tree/master/0073-set-matrix-zeroes) |
 ## Binary Search
 |  |
 | ------- |
@@ -78,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/anii02092006/My-Codes/tree/master/0062-unique-paths) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/anii02092006/My-Codes/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
