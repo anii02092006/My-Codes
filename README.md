@@ -36,4 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/anii02092006/My-Codes/tree/master/0021-merge-two-sorted-lists) |
+## Array
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/anii02092006/My-Codes/tree/master/0035-search-insert-position) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/anii02092006/My-Codes/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
