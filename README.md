@@ -25,11 +25,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anii02092006/My-Codes/tree/master/0005-longest-palindromic-substring) |
+| [0062-unique-paths](https://github.com/anii02092006/My-Codes/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/anii02092006/My-Codes/tree/master/0070-climbing-stairs) |
 ## Math
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/anii02092006/My-Codes/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/anii02092006/My-Codes/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/anii02092006/My-Codes/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/anii02092006/My-Codes/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/anii02092006/My-Codes/tree/master/0070-climbing-stairs) |
@@ -72,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/anii02092006/My-Codes/tree/master/0094-binary-tree-inorder-traversal) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/anii02092006/My-Codes/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
