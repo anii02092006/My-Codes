@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/anii02092006/My-Codes/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/anii02092006/My-Codes/tree/master/0058-length-of-last-word) |
 | [0097-interleaving-string](https://github.com/anii02092006/My-Codes/tree/master/0097-interleaving-string) |
+| [0539-minimum-time-difference](https://github.com/anii02092006/My-Codes/tree/master/0539-minimum-time-difference) |
 ## Sliding Window
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/anii02092006/My-Codes/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/anii02092006/My-Codes/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/anii02092006/My-Codes/tree/master/0070-climbing-stairs) |
+| [0539-minimum-time-difference](https://github.com/anii02092006/My-Codes/tree/master/0539-minimum-time-difference) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/anii02092006/My-Codes/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Linked List
 |  |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/anii02092006/My-Codes/tree/master/0130-surrounded-regions) |
 | [0414-third-maximum-number](https://github.com/anii02092006/My-Codes/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anii02092006/My-Codes/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0539-minimum-time-difference](https://github.com/anii02092006/My-Codes/tree/master/0539-minimum-time-difference) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/anii02092006/My-Codes/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Binary Search
 |  |
@@ -140,4 +143,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/anii02092006/My-Codes/tree/master/0075-sort-colors) |
 | [0414-third-maximum-number](https://github.com/anii02092006/My-Codes/tree/master/0414-third-maximum-number) |
+| [0539-minimum-time-difference](https://github.com/anii02092006/My-Codes/tree/master/0539-minimum-time-difference) |
 <!---LeetCode Topics End-->
