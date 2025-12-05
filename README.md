@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/anii02092006/My-Codes/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/anii02092006/My-Codes/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/anii02092006/My-Codes/tree/master/0130-surrounded-regions) |
+| [0414-third-maximum-number](https://github.com/anii02092006/My-Codes/tree/master/0414-third-maximum-number) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/anii02092006/My-Codes/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Binary Search
 |  |
@@ -136,4 +137,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/anii02092006/My-Codes/tree/master/0075-sort-colors) |
+| [0414-third-maximum-number](https://github.com/anii02092006/My-Codes/tree/master/0414-third-maximum-number) |
 <!---LeetCode Topics End-->
