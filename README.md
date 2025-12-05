@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/anii02092006/My-Codes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/anii02092006/My-Codes/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/anii02092006/My-Codes/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/anii02092006/My-Codes/tree/master/0128-longest-consecutive-sequence) |
 ## String
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/anii02092006/My-Codes/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/anii02092006/My-Codes/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/anii02092006/My-Codes/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/anii02092006/My-Codes/tree/master/0128-longest-consecutive-sequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -96,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/anii02092006/My-Codes/tree/master/0100-same-tree) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/anii02092006/My-Codes/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
