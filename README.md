@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anii02092006/My-Codes/tree/master/0005-longest-palindromic-substring) |
+| [0075-sort-colors](https://github.com/anii02092006/My-Codes/tree/master/0075-sort-colors) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/anii02092006/My-Codes/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/anii02092006/My-Codes/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/anii02092006/My-Codes/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/anii02092006/My-Codes/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/anii02092006/My-Codes/tree/master/0128-longest-consecutive-sequence) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/anii02092006/My-Codes/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Binary Search
@@ -112,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/anii02092006/My-Codes/tree/master/3432-count-partitions-with-even-sum-difference) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/anii02092006/My-Codes/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
