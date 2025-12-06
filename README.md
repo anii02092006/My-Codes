@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/anii02092006/My-Codes/tree/master/0058-length-of-last-word) |
 | [0097-interleaving-string](https://github.com/anii02092006/My-Codes/tree/master/0097-interleaving-string) |
 | [0539-minimum-time-difference](https://github.com/anii02092006/My-Codes/tree/master/0539-minimum-time-difference) |
+| [2211-count-collisions-on-a-road](https://github.com/anii02092006/My-Codes/tree/master/2211-count-collisions-on-a-road) |
 ## Sliding Window
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/anii02092006/My-Codes/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anii02092006/My-Codes/tree/master/0144-binary-tree-preorder-traversal) |
+| [2211-count-collisions-on-a-road](https://github.com/anii02092006/My-Codes/tree/master/2211-count-collisions-on-a-road) |
 ## Tree
 |  |
 | ------- |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/anii02092006/My-Codes/tree/master/0566-reshape-the-matrix) |
+| [2211-count-collisions-on-a-road](https://github.com/anii02092006/My-Codes/tree/master/2211-count-collisions-on-a-road) |
 ## Queue
 |  |
 | ------- |
