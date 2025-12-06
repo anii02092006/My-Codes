@@ -162,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/anii02092006/My-Codes/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/anii02092006/My-Codes/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
