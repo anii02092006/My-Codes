@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/anii02092006/My-Codes/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/anii02092006/My-Codes/tree/master/0169-majority-element) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anii02092006/My-Codes/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/anii02092006/My-Codes/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 ## String
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/anii02092006/My-Codes/tree/master/0058-length-of-last-word) |
 | [0097-interleaving-string](https://github.com/anii02092006/My-Codes/tree/master/0097-interleaving-string) |
 | [0539-minimum-time-difference](https://github.com/anii02092006/My-Codes/tree/master/0539-minimum-time-difference) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/anii02092006/My-Codes/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [2211-count-collisions-on-a-road](https://github.com/anii02092006/My-Codes/tree/master/2211-count-collisions-on-a-road) |
 ## Sliding Window
 |  |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anii02092006/My-Codes/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/anii02092006/My-Codes/tree/master/0539-minimum-time-difference) |
 | [0566-reshape-the-matrix](https://github.com/anii02092006/My-Codes/tree/master/0566-reshape-the-matrix) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/anii02092006/My-Codes/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/anii02092006/My-Codes/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/anii02092006/My-Codes/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Binary Search
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/anii02092006/My-Codes/tree/master/0169-majority-element) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/anii02092006/My-Codes/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 ## Enumeration
 |  |
 | ------- |
