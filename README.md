@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/anii02092006/My-Codes/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/anii02092006/My-Codes/tree/master/0070-climbing-stairs) |
 | [0539-minimum-time-difference](https://github.com/anii02092006/My-Codes/tree/master/0539-minimum-time-difference) |
+| [1266-minimum-time-visiting-all-points](https://github.com/anii02092006/My-Codes/tree/master/1266-minimum-time-visiting-all-points) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/anii02092006/My-Codes/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/anii02092006/My-Codes/tree/master/1925-count-square-sum-triples) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/anii02092006/My-Codes/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/anii02092006/My-Codes/tree/master/0539-minimum-time-difference) |
 | [0566-reshape-the-matrix](https://github.com/anii02092006/My-Codes/tree/master/0566-reshape-the-matrix) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/anii02092006/My-Codes/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1266-minimum-time-visiting-all-points](https://github.com/anii02092006/My-Codes/tree/master/1266-minimum-time-visiting-all-points) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/anii02092006/My-Codes/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/anii02092006/My-Codes/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Binary Search
@@ -195,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/anii02092006/My-Codes/tree/master/1925-count-square-sum-triples) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/anii02092006/My-Codes/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
