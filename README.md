@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/anii02092006/My-Codes/tree/master/0169-majority-element) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anii02092006/My-Codes/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/anii02092006/My-Codes/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [3583-count-special-triplets](https://github.com/anii02092006/My-Codes/tree/master/3583-count-special-triplets) |
 ## String
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/anii02092006/My-Codes/tree/master/1266-minimum-time-visiting-all-points) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/anii02092006/My-Codes/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/anii02092006/My-Codes/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+| [3583-count-special-triplets](https://github.com/anii02092006/My-Codes/tree/master/3583-count-special-triplets) |
 ## Binary Search
 |  |
 | ------- |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/anii02092006/My-Codes/tree/master/0169-majority-element) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/anii02092006/My-Codes/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [3583-count-special-triplets](https://github.com/anii02092006/My-Codes/tree/master/3583-count-special-triplets) |
 ## Enumeration
 |  |
 | ------- |
