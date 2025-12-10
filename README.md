@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/anii02092006/My-Codes/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anii02092006/My-Codes/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anii02092006/My-Codes/tree/master/0145-binary-tree-postorder-traversal) |
+| [0998-maximum-binary-tree-ii](https://github.com/anii02092006/My-Codes/tree/master/0998-maximum-binary-tree-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/anii02092006/My-Codes/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anii02092006/My-Codes/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anii02092006/My-Codes/tree/master/0145-binary-tree-postorder-traversal) |
+| [0998-maximum-binary-tree-ii](https://github.com/anii02092006/My-Codes/tree/master/0998-maximum-binary-tree-ii) |
 ## Combinatorics
 |  |
 | ------- |
