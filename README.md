@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/anii02092006/My-Codes/tree/master/1266-minimum-time-visiting-all-points) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/anii02092006/My-Codes/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/anii02092006/My-Codes/tree/master/1925-count-square-sum-triples) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/anii02092006/My-Codes/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/anii02092006/My-Codes/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/anii02092006/My-Codes/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Linked List
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/anii02092006/My-Codes/tree/master/0566-reshape-the-matrix) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/anii02092006/My-Codes/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1266-minimum-time-visiting-all-points](https://github.com/anii02092006/My-Codes/tree/master/1266-minimum-time-visiting-all-points) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/anii02092006/My-Codes/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/anii02092006/My-Codes/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3531-count-covered-buildings](https://github.com/anii02092006/My-Codes/tree/master/3531-count-covered-buildings) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/anii02092006/My-Codes/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/anii02092006/My-Codes/tree/master/0566-reshape-the-matrix) |
 | [2211-count-collisions-on-a-road](https://github.com/anii02092006/My-Codes/tree/master/2211-count-collisions-on-a-road) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/anii02092006/My-Codes/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Queue
 |  |
 | ------- |
@@ -220,4 +223,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/anii02092006/My-Codes/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/anii02092006/My-Codes/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 <!---LeetCode Topics End-->
