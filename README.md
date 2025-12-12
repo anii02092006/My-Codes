@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-square-sum-triples](https://github.com/anii02092006/My-Codes/tree/master/1925-count-square-sum-triples) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/anii02092006/My-Codes/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/anii02092006/My-Codes/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3433-count-mentions-per-user](https://github.com/anii02092006/My-Codes/tree/master/3433-count-mentions-per-user) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/anii02092006/My-Codes/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Linked List
 |  |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/anii02092006/My-Codes/tree/master/1266-minimum-time-visiting-all-points) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/anii02092006/My-Codes/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/anii02092006/My-Codes/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3433-count-mentions-per-user](https://github.com/anii02092006/My-Codes/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/anii02092006/My-Codes/tree/master/3531-count-covered-buildings) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/anii02092006/My-Codes/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/anii02092006/My-Codes/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/anii02092006/My-Codes/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/anii02092006/My-Codes/tree/master/0414-third-maximum-number) |
 | [0539-minimum-time-difference](https://github.com/anii02092006/My-Codes/tree/master/0539-minimum-time-difference) |
+| [3433-count-mentions-per-user](https://github.com/anii02092006/My-Codes/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/anii02092006/My-Codes/tree/master/3531-count-covered-buildings) |
 ## Simulation
 |  |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/anii02092006/My-Codes/tree/master/0566-reshape-the-matrix) |
 | [2211-count-collisions-on-a-road](https://github.com/anii02092006/My-Codes/tree/master/2211-count-collisions-on-a-road) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/anii02092006/My-Codes/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3433-count-mentions-per-user](https://github.com/anii02092006/My-Codes/tree/master/3433-count-mentions-per-user) |
 ## Queue
 |  |
 | ------- |
