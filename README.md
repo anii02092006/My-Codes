@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/anii02092006/My-Codes/tree/master/0539-minimum-time-difference) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/anii02092006/My-Codes/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [2211-count-collisions-on-a-road](https://github.com/anii02092006/My-Codes/tree/master/2211-count-collisions-on-a-road) |
+| [2678-number-of-senior-citizens](https://github.com/anii02092006/My-Codes/tree/master/2678-number-of-senior-citizens) |
 ## Sliding Window
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/anii02092006/My-Codes/tree/master/0566-reshape-the-matrix) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/anii02092006/My-Codes/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1266-minimum-time-visiting-all-points](https://github.com/anii02092006/My-Codes/tree/master/1266-minimum-time-visiting-all-points) |
+| [2678-number-of-senior-citizens](https://github.com/anii02092006/My-Codes/tree/master/2678-number-of-senior-citizens) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/anii02092006/My-Codes/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/anii02092006/My-Codes/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/anii02092006/My-Codes/tree/master/3433-count-mentions-per-user) |
